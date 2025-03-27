@@ -2,8 +2,7 @@
 
 A simple JavaScript web application that detects whether a user-inputted character is a vowel, consonant, or invalid input.
 
-![Demo](https://img.shields.io/badge/Demo-Available-green) ![License](https://img.shields.io/badge/License-MIT-blue)
-
+![Demo](https://img.shields.io/badge/Demo-Available-green)(https://)!
 ## Description 📝
 
 This project prompts users to enter any alphabet character and instantly tells them whether it's a vowel, consonant, or invalid input (for non-alphabet characters). Built with vanilla JavaScript, HTML, and regular expressions.
